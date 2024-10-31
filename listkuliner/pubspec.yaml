@@ -1,0 +1,47 @@
+name: listkuliner
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/bubur.jpg
+    - assets/bubur1.jpg
+    - assets/bubur2.jpg
+    - assets/bubur3.jpg
+    - assets/pecel.jpg
+    - assets/pecel1.jpg
+    - assets/pecel2.jpg
+    - assets/pecel3.jpg
+    - assets/soto.jpg
+    - assets/soto1.jpg
+    - assets/soto2.jpg
+    - assets/soto3.jpg
+    - assets/bahan/daging.png
+    - assets/bahan/cabai.png
+    - assets/bahan/bawang.png
+    - assets/bahan/jahe.png
+    - assets/bahan/santan.png
+    - assets/bahan/sayur.png
+    - assets/bahan/tahu.png
+    - assets/bahan/kentang.png
+    - assets/bahan/telur.png
+    - assets/bahan/kacang.png
+    - assets/bahan/ayam.png
+    - assets/bahan/kecap.png
